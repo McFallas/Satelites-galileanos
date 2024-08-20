@@ -15,4 +15,4 @@ En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
 Esta es una imagen local.
 
-! [PERRO](PERRO.jpg)
+![PERRO](PERRO.jpg)
